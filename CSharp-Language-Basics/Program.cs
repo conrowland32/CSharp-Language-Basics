@@ -20,6 +20,7 @@ namespace CSharp_Language_Basics
             const string greeting = "Hello";
             string name = "Karen";
 
+            // Output encoding option for Windows
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             if(sample1 == sample2)
