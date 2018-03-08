@@ -20,6 +20,8 @@ namespace CSharp_Language_Basics
             const string greeting = "Hello";
             string name = "Karen";
 
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
             if(sample1 == sample2)
             {
                 Console.WriteLine("The samples are equal.");
