@@ -1,0 +1,11 @@
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\bin\Debug\netcoreapp2.0\CSharp-Language-Basics.deps.json
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\bin\Debug\netcoreapp2.0\CSharp-Language-Basics.runtimeconfig.json
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\bin\Debug\netcoreapp2.0\CSharp-Language-Basics.runtimeconfig.dev.json
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\bin\Debug\netcoreapp2.0\CSharp-Language-Basics.dll
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\bin\Debug\netcoreapp2.0\CSharp-Language-Basics.pdb
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.csprojResolveAssemblyReference.cache
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.csproj.CoreCompileInputs.cache
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.AssemblyInfoInputs.cache
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.AssemblyInfo.cs
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.dll
+C:\Users\Connor Rowland\OneDrive\Documents\College Work\Spring 2018\CS4330 - OODesign\CSharp-Language-Basics\CSharp-Language-Basics\obj\Debug\netcoreapp2.0\CSharp-Language-Basics.pdb
